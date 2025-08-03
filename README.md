@@ -16,3 +16,13 @@ Under the following terms:
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 Full license text: https://creativecommons.org/licenses/by/4.0/
+# Lunar Coupling Project
+
+This project explores a novel field theory for lunar–gravitational coupling and its effect on telluric currents.
+
+📄 [Read the full paper (PDF)](Lunar%20Coupling%20Definitive.pdf)
+
+---
+
+☕ Like the research? Support it on Ko-fi:  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johnryder99892)
